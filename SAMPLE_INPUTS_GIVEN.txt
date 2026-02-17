@@ -1,0 +1,34 @@
+--- Basic Resume Builder ---
+Enter Full Name: Ramprasad Verma
+Enter Email: Ram@ymail.com
+Enter Phone: 8989898998
+Enter Address: Noida New Delhi
+Enter LinkedIn: linkedin/ramprasadv
+Enter Objective: Aspiring Software Engineer   
+
+--- Education Details ---
+Degree (e.g., B.Tech) [Press Enter to finish education]: Btech CSE 
+Institution/University: XYZ University
+Year of Passing: 2026
+Grade/Percentage: 9.2
+---
+Degree (e.g., B.Tech) [Press Enter to finish education]: 12th      
+Institution/University: ABC School
+Year of Passing: 2020
+Grade/Percentage: 92
+---
+Degree (e.g., B.Tech) [Press Enter to finish education]: 10th      
+Institution/University: ABC School
+Year of Passing: 2018
+Grade/Percentage: 91
+---
+Degree (e.g., B.Tech) [Press Enter to finish education]:
+
+(Tip: For lists, you can manually type bullets or just use new lines)
+Enter Experience: *List of experiences*
+Enter Skills: *list of skills*
+Enter Projects: *List of Projects*
+
+Enter path to your photo (e.g., profile.jpg) or 'NA': caps.png
+
+Success! Resume saved as: Ramprasad_Verma_Resume.docx
